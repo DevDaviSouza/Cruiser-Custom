@@ -12,4 +12,4 @@ Para configuração do sistema é necessário executar os seguintes comandos no 
   npm i swiper
 ```
 
-Após isso, para inicializa-lo, é necessário apenas executar o arquivo index.html utilizanodo uma extensão como live server ou similares.
+Após isso, para inicializa-lo, é necessário apenas executar o arquivo index.html utilizando uma extensão como live server ou similares.
